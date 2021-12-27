@@ -20,7 +20,7 @@ My research work🔬 focuses on **COMPUTER VISION** and **HYPERSPECTRAL DATA** P
 
 I have a lovely girlfriend and we are about to get engaged. 💍
 
-E-mail📧 : Jmzhang@bjfu.edu.cn / CharminZh@Wechat🐧
+E-mail📧 : Jmzhang@bjfu.edu.cn / Wechat@CharminZh🐧
 
 | Communicate with me in ... | Rate (totol. 5) |
 | :------------------------: | :-------------: |
