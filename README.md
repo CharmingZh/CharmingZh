@@ -44,10 +44,11 @@ E-mail📧 : Jmzhang@bjfu.edu.cn / Wechat@CharminZh🐧
   <tr>
     <td width="50%">
       <h1>Charming Zhang</h1>
-      <p><b>*NIX based System Programming ...</b></p>
-      <p><b>Bachelor of Science in Information and Computing Science ... </b></p>
-      <p><b>C, C++, Rust, Python, R, Matlab ...</b></p>
-      <p><b>Vim, VSCode, Visual Studio, Clion, PyCharm ...</b></p>
+      <p><b>:computer:  *NIX based System Programming ...</b></p>
+      <p><b>:page_with_curl: Degree: Bachelor of Science... </b></p>
+      <p><b>:flashlight: Majored: Information and Computing Science ...</b></p>
+      <p><b>:musical_keyboard: Languages: C, C++, Rust, Python, R, Matlab ...</b></p>
+      <p><b>:fork_and_knife: Tools: Vim, VSCode, Visual Studio, Clion, PyCharm ...</b></p>
     </td>
     <td width="50%">
       <a href="https://github.com/ghosind">
