@@ -40,14 +40,23 @@ E-mail📧 : Jmzhang@bjfu.edu.cn / Wechat@CharminZh🐧
 \____/|_|\_\_|_|_|___/
 ```
 
-- 💡 **Back-end stack** :
-   - *NIX based System Programming ...
-- Front-end stack
-- 📐 **Mathematics** : Bachelor of Science in Information and Computing Science ... 
-- Algorithm
-- 🎹 **Programming Language** : C, C++, Rust, Python, R, Matlab ...
-- 🔨 **Development Tools** : Vim, VSCode, Visual Studio, Clion, PyCharm ...
-
+<table border="0">
+  <tr>
+    <td width="50%">
+      <h1>Charming Zhang</h1>
+      <p><b>*NIX based System Programming ...</b></p>
+      <p><b>Bachelor of Science in Information and Computing Science ... </b></p>
+      <p><b>C, C++, Rust, Python, R, Matlab ...</b></p>
+      <p><b>Vim, VSCode, Visual Studio, Clion, PyCharm ...</b></p>
+      <p><b>Howntown: Guangdong, China</b></p>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/ghosind">
+         <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charmingzh&langs_count=20&theme=radical&layout=compact" />
+      </a>     
+    </td>
+  </tr>
+</table>
 ... Learning about the unknown is interesting and never-ending.🏄‍♀️
 
 <!--
@@ -60,11 +69,10 @@ E-mail📧 : Jmzhang@bjfu.edu.cn / Wechat@CharminZh🐧
 | | | | | ||  __/ | |  __/\__ \ |_ 
 |_|_| |_|\__\___|_|  \___||___/\__|  
 ```
---> 
-
 <a href="https://github.com/ghosind">
 <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charmingzh&langs_count=20&theme=radical&layout=compact" />
 </a>
+--> 
 
 ```c
       ___      ___         ___      ___        ___         ___                 ___     
@@ -82,8 +90,19 @@ E-mail📧 : Jmzhang@bjfu.edu.cn / Wechat@CharminZh🐧
 ```
 
 <details>
- <summary> Qtas </summary>
-         My project [CharmingZh/Qtas](https://github.com/CharmingZh/Qtas) finally implemented a P2P distributed network storage system based on IPv6 and Chord protocol – Quiet a Storage, Qtas, and all the source code has been uploaded to Github for open source issues. During the development, we not only designed our own logging system for the sake of break traceability, but also reserved space for potential extensions in future, and because the whole project was completed by one person, there was a high degree of consistency in development thinking. The application uses the command line for interaction, but the project was developed from the beginning with an eye to solving real-world problems, so the interaction commands are designed to be user-friendly and easy to use. In fact, the author’s lab has already used the unfinished version in real research life. The project is based on Python, which has some performance and organizational issues due to the author’s low proficiency in the language. However, after this project, the authors have a good understanding of the web application development process, which provides a strong support for future refactoring using C and Rust.
-         ![](https://tva1.sinaimg.cn/large/008i3skNgy1gy1pgyjovhj31ao0g4wgm.jpg)
-         
+ <summary> Qtas: a P2P distributed network storage system based on IPv6 and Chord protocol </summary>
+
+1. 源代码仓库(Source code)：[Qtas](https://github.com/CharmingZh/Qtas/)；
+1. 命令行交互界面：
+   ![](https://tva1.sinaimg.cn/large/008i3skNgy1gy1pgyjovhj31ao0g4wgm.jpg)
+
+</details>
+
+<details>
+ <summary> #todo </summary>
+
+1. 留白没见过嘛哼：[Readme-Page](https://github.com/CharmingZh/CharmingZh/)；
+1. 没想好做什么呢：
+   ![](https://tva1.sinaimg.cn/large/008i3skNgy1gy1pgyjovhj31ao0g4wgm.jpg)
+
 </details>
