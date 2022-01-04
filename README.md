@@ -61,5 +61,5 @@ E-mail📧 : Jmzhang@bjfu.edu.cn / Wechat@CharminZh🐧
 ```
 --> 
 <a href="https://github.com/ghosind">
-<img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charmingzh&layout=compact&langs_count=8" />
+<img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charmingzh&langs_count=20&theme=radical&layout=compact" />
 </a>
