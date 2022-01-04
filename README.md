@@ -48,7 +48,6 @@ E-mail📧 : Jmzhang@bjfu.edu.cn / Wechat@CharminZh🐧
       <p><b>Bachelor of Science in Information and Computing Science ... </b></p>
       <p><b>C, C++, Rust, Python, R, Matlab ...</b></p>
       <p><b>Vim, VSCode, Visual Studio, Clion, PyCharm ...</b></p>
-      <p><b>Howntown: Guangdong, China</b></p>
     </td>
     <td width="50%">
       <a href="https://github.com/ghosind">
