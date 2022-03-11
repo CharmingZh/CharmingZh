@@ -51,8 +51,8 @@ E-mail📧 : Jmzhang@bjfu.edu.cn / Wechat@CharminZh🐧
       <p><b>:fork_and_knife: Tools: Vim, VSCode, Visual Studio, Clion, PyCharm ...</b></p>
     </td>
     <td width="50%">
-      <a href="https://github.com/ghosind">
-         <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charmingzh&langs_count=20&theme=radical&layout=compact" />
+      <a href="https://github.com/charmingzh">
+         <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charmingzh&langs_count=20&theme=radical&layout=compact&count_private=false" />
       </a>     
     </td>
   </tr>
