@@ -18,7 +18,9 @@ Just call me **Raul**👨‍🎓. I am currently a graduate student who loves co
 
 My research work🔬 focuses on **COMPUTER VISION** and **HYPERSPECTRAL DATA** PROCESSING. 🍌
 
+<!--
 I have a lovely girlfriend and we are about to get engaged. 💍
+-->
 
 E-mail📧 : Jmzhang@bjfu.edu.cn / Wechat@CharminZh🐧
 
