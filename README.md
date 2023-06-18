@@ -24,6 +24,8 @@ I have a lovely girlfriend and we are about to get engaged. 💍
 
 E-mail📧 : Jmzhang@bjfu.edu.cn / Wechat@CharminZh🐧
 
+ORCID : 0009-0006-7842-9693
+
 | Communicate with me in ... | Rate (totol. 5) |
 | :------------------------: | :-------------: |
 |       🇨🇳 **Chinese**       |      🌟🌟🌟🌟🌟      |
