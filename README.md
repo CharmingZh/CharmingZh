@@ -106,6 +106,7 @@ _MM_       _MM_     YMMMMM9  MM  YMMMM9   YMMMM9   YMMM9 MYMMMM9
 1. 命令行交互界面：
    ![](https://tva1.sinaimg.cn/large/008i3skNgy1gy1pgyjovhj31ao0g4wgm.jpg)
 
+
 </details>
 
 <details>
@@ -117,7 +118,12 @@ _MM_       _MM_     YMMMMM9  MM  YMMMM9   YMMMM9   YMMM9 MYMMMM9
 
 <details>
  <summary> [2025] 🌧Sweat Scheduler MSU 健身房人浪预报🌊 </summary>
-
+<div style="display: flex; justify-content: space-between; align-items: center;">
+   <img src="=https://github.com/user-attachments/assets/292d57b8-e1be-47d3-bc57-081d1d456d5b" alt="图片2" style="width: 74%; margin-right: 0%;"> 
+ <img src="https://github.com/user-attachments/assets/601f6b59-1820-4850-9cfe-7eec67660fa0" alt="图片2" style="width: 21%; margin-right: 0%;">
+</div>
+<center>Viz of 2025 Data and Runtime Demo.</center>
+        
 1. 源代码仓库(Source code)：[🌧Sweat Scheduler MSU 健身房人浪预报🌊](https://github.com/CharmingZh/IsItBusy)；
 2. 数据仓库（Data backend)：[data](https://github.com/CharmingZh/gym_data_repo)；
 3. 主页(Home Page)：[Kan's Lab](https://charmingzh.github.io/IsItBusy/)；
