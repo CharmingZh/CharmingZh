@@ -119,8 +119,8 @@ _MM_       _MM_     YMMMMM9  MM  YMMMM9   YMMMM9   YMMM9 MYMMMM9
 <details>
  <summary> [2025] 🌧Sweat Scheduler MSU 健身房人浪预报🌊 </summary>
 <div style="display: flex; justify-content: space-between; align-items: center;">
-   <img src="=https://github.com/user-attachments/assets/292d57b8-e1be-47d3-bc57-081d1d456d5b" alt="图片2" style="width: 74%; margin-right: 0%;"> 
- <img src="https://github.com/user-attachments/assets/601f6b59-1820-4850-9cfe-7eec67660fa0" alt="图片2" style="width: 21%; margin-right: 0%;">
+   <img src="https://raw.githubusercontent.com/CharmingZh/IsItBusy/refs/heads/master/docs/output_images/09_integration_by_year_2025.png" alt="图片2" style="width: 74%; margin-right: 0%;"> 
+ <img src="https://raw.githubusercontent.com/CharmingZh/IsItBusy/refs/heads/master/docs/pic/demo.png" alt="图片2" style="width: 21%; margin-right: 0%;">
 </div>
 <center>Viz of 2025 Data and Runtime Demo.</center>
         
