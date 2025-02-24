@@ -103,14 +103,18 @@ _MM_       _MM_     YMMMMM9  MM  YMMMM9   YMMMM9   YMMM9 MYMMMM9
  <summary> [2021] Qtas: a P2P distributed network storage system based on IPv6 and Chord protocol </summary>
 1. 源代码仓库(Source code)：[Qtas](https://github.com/CharmingZh/Qtas/)；
 2. 命令行交互界面：
+    
    ![](https://tva1.sinaimg.cn/large/008i3skNgy1gy1pgyjovhj31ao0g4wgm.jpg)
+   
 </details>
 
 <details>
  <summary> [2023] An Advanced Software Platform and Algorithmic Framework for Mobile DBH Data Acquisition. </summary>
 1. 论文链接(Paper)：[DOI](https://doi.org/10.3390/f14122334)；
 2. Graphical Abstract：
+    
    ![](https://www.mdpi.com/forests/forests-14-02334/article_deploy/html/images/forests-14-02334-g001.png)
+   
 </details>
 
 <details>
