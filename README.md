@@ -25,9 +25,9 @@ and my M.E. degree from **Beijing Forestry University.** 💊
 
 I have worked as a **server backend developer** and **camera algorithm engineer** @Mech-mind. I love technologies and hope to make friends with similar interests and generate power with passion.
 
-E-mail📧 : zhan2374@msu.edu / Wechat@JiamingZh🐧
-
 ---
+
+E-mail📧 : zhan2374@msu.edu / Wechat@JiamingZh🐧
 <div align="center">
 
 | Communicate with me in ... | Rate (total: 5) |
