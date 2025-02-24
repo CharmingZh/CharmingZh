@@ -123,6 +123,21 @@ _MM_       _MM_     YMMMMM9  MM  YMMMM9   YMMMM9   YMMM9 MYMMMM9
 </details>
 
 <details>
+ <summary> [2024] A framework for real-time 3D surface reconstruction of objects based on single/dual-line lasers. </summary>
+    
+<div style="display: flex; justify-content: space-between; align-items: center;">
+        <img src="https://github.com/user-attachments/assets/657f0c3c-68e0-43b1-abb3-2640de7634aa" alt="图片2" style="width: 67%; margin-right: 1%;"> 
+        <img src="https://github.com/user-attachments/assets/193be91a-fd4b-428f-ab31-e1bdad1113c1" alt="图片2" style="width: 31%; margin-right: 0%;">
+    </div>
+
+   <div style="display: flex; justify-content: space-between; align-items: center;">
+        <img src="https://github.com/user-attachments/assets/053306d5-1935-4258-a7e5-b60713ab079a" alt="图片2" style="width: 48%; margin-right: 1%;"> 
+        <img src="https://github.com/user-attachments/assets/f7e0cea2-ed96-404a-af58-926a0fc4f3d7" alt="图片2" style="width: 51%; margin-right: 0%;">
+    </div>
+
+</details>
+
+<details>
     <summary> [2025] 🌧Sweat Scheduler MSU 健身房人浪预报🌊 </summary>
     <div style="display: flex; justify-content: space-between; align-items: center;">
         <img src="https://raw.githubusercontent.com/CharmingZh/IsItBusy/refs/heads/master/docs/output_images/09_integration_by_year_2025.png" alt="图片2" style="width: 74%; margin-right: 0%;"> 
