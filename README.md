@@ -100,7 +100,7 @@ _MM_       _MM_     YMMMMM9  MM  YMMMM9   YMMMM9   YMMM9 MYMMMM9
 ```
 
 <details>
- <summary> Qtas: a P2P distributed network storage system based on IPv6 and Chord protocol </summary>
+ <summary> [2021] Qtas: a P2P distributed network storage system based on IPv6 and Chord protocol </summary>
 
 1. 源代码仓库(Source code)：[Qtas](https://github.com/CharmingZh/Qtas/)；
 1. 命令行交互界面：
@@ -109,10 +109,17 @@ _MM_       _MM_     YMMMMM9  MM  YMMMM9   YMMMM9   YMMM9 MYMMMM9
 </details>
 
 <details>
- <summary> #todo </summary>
+ <summary> [2023] Intelligent Information Processing (IIP) Lab's Home Page - Beijing Forestry University. </summary>
 
-1. 留白没见过嘛哼：[Readme-Page](https://github.com/CharmingZh/CharmingZh/)；
-1. 没想好做什么呢：
-   ![](https://tva1.sinaimg.cn/large/008i3skNgy1gy1pgyjovhj31ao0g4wgm.jpg)
+1. 主页(Home Page)：[Kan's Lab](https://ziayhzhou.github.io/))；
+
+</details>
+
+<details>
+ <summary> [2025] 🌧Sweat Scheduler MSU 健身房人浪预报🌊 </summary>
+
+1. 源代码仓库(Source code)：[🌧Sweat Scheduler MSU 健身房人浪预报🌊](https://github.com/CharmingZh/IsItBusy)；
+2. 数据仓库（Data backend)：[data](https://github.com/CharmingZh/gym_data_repo)；
+3. 主页(Home Page)：[Kan's Lab](https://charmingzh.github.io/IsItBusy/)；
 
 </details>
