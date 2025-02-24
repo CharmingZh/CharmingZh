@@ -14,7 +14,7 @@
 |____.'       `--'  `"                    '--'   '--'  `'---'           |_________|'---'   '---'`--'  `" '--'   '--'  `'---'  
 ```
 
-Hello, my name is **Zhang Jia-Ming** "Chahng-Jiah-Meengh", or **ᠰᠠᠬᠢᠭᠴᠢ** "Sah-heekh-chee"👨‍🎓. 
+Hello, my name is **Jiaming**, or **ᠰᠠᠬᠢᠭᠴᠢ** "Sah-heekh-chee"👨‍🎓. 
 ---
 I am currently a **PhD student** in **Biosystems Engineering @Michigan State University**. 
 
