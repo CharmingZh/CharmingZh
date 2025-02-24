@@ -14,19 +14,30 @@
 |____.'       `--'  `"                    '--'   '--'  `'---'           |_________|'---'   '---'`--'  `" '--'   '--'  `'---'  
 ```
 
-Hello, my name is **Zhang Jia-Ming** "Chahng-Jiah-Meengh", or **ᠰᠠᠬᠢᠭᠴᠢ** "Sah-heekh-chee"👨‍🎓. I am currently a **PhD student** in **Biosystems Engineering @Michigan State University**. My research interests mainly focus on **3D information processing** and **multi-view geometry**. Before pursuing my Ph.D., I received my B.S. degree from the Department of Mathematics, **China University of Mining and Technology (Beijing)**, and my M.E. degree from **Beijing Forestry University.**💊 
+Hello, my name is **Zhang Jia-Ming** "Chahng-Jiah-Meengh", or **ᠰᠠᠬᠢᠭᠴᠢ** "Sah-heekh-chee"👨‍🎓. 
+---
+I am currently a **PhD student** in **Biosystems Engineering @Michigan State University**. 
+
+My research interests mainly focus on **3D information processing** and **multi-view geometry**. 
+
+Before pursuing my Ph.D., I received my B.S. degree from the Department of Mathematics, **China University of Mining and Technology (Beijing)**, 
+and my M.E. degree from **Beijing Forestry University.** 💊 
 
 I have worked as a **server backend developer** and **camera algorithm engineer** @Mech-mind. I love technologies and hope to make friends with similar interests and generate power with passion.
 
 E-mail📧 : zhan2374@msu.edu / Wechat@JiamingZh🐧
 
-| Communicate with me in ... | Rate (totol. 5) |
-| :------------------------: | :-------------: |
-|       🇨🇳 **Chinese**       |      🌟🌟🌟🌟🌟      |
-|       🇺🇸 **English**       |       🌟🌟🌟       |
-|       🇷🇺 по-русски[1]        |   🌟🌟    |
-|         🇩🇪 Deutch[1]         | 🌟  |
+---
+<div align="center">
 
+| Communicate with me in ... | Rate (total: 5) |
+| :------------------------: | :-------------: |
+| 🇨🇳 **Chinese** | 🌟🌟🌟🌟🌟 |
+| 🇺🇸 **English** | 🌟🌟🌟 |
+| 🇷🇺 по-русски[1] | 🌟🌟 |
+| 🇩🇪 Deutsch[1] | 🌟 |
+
+</div>
 > [1] Never speak to me in these two, cuz I have no confidence that I can understand.🥺
 <!--
 ```C
