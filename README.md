@@ -150,15 +150,15 @@ E-mail📧 : zhan2374@msu.edu / Wechat@JiamingZh🐧
   <tr>
     <td width="50%">
       <p><b>:computer:  *NIX based System Programming ...</b></p>
-      <p><b>:page_with_curl: Degree: Bachelor of Science... </b></p>
-      <p><b>:flashlight: Majored: Information and Computing Science ...</b></p>
+      <p><b>:page_with_curl: Degree: B.S. -> M.Eng. -> Ph.D. ... </b></p>
+      <p><b>:flashlight: Majored: Biosystems Engineering...</b></p>
       <p><b>:musical_keyboard: Languages: C, C++, Rust, Python, R, Matlab ...</b></p>
-      <p><b>:fork_and_knife: Tools: Vim, VSCode, Visual Studio, Clion, PyCharm ...</b></p>
+      <p><b>:fork_and_knife: Tools: Vim, Clion, PyCharm ...</b></p>
     </td>
   </tr>
 </table>
 
-> ... Learning about the unknown is interesting and never-ending.🏄‍♀️
+>  Learning about the unknown is interesting and never-ending.🏄‍♀️
 
 </td> </tr> </table>
 
