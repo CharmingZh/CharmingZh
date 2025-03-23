@@ -2,7 +2,9 @@ Projects Gallery🖼️:
 ---
 <details>
  <summary> [2021] Qtas: a P2P distributed network storage system based on IPv6 and Chord protocol </summary>
+ 
 1. 源代码仓库(Source code)：[Qtas](https://github.com/CharmingZh/Qtas/)；
+ 
 2. 命令行交互界面：
     
    ![](https://tva1.sinaimg.cn/large/008i3skNgy1gy1pgyjovhj31ao0g4wgm.jpg)
@@ -11,7 +13,9 @@ Projects Gallery🖼️:
 
 <details>
  <summary> [2023] An Advanced Software Platform and Algorithmic Framework for Mobile DBH Data Acquisition. </summary>
+ 
 1. 论文链接(Paper)：[DOI](https://doi.org/10.3390/f14122334)；
+ 
 2. Graphical Abstract：
     
    ![](https://www.mdpi.com/forests/forests-14-02334/article_deploy/html/images/forests-14-02334-g001.png)
@@ -20,7 +24,9 @@ Projects Gallery🖼️:
 
 <details>
     <summary> [2023] Intelligent Information Processing (IIP) Lab's Home Page - Beijing Forestry University. </summary>
+ 
 1. 主页(Home Page)：[Kan's Lab](https://ziayhzhou.github.io/))；
+   
 </details>
 
 <details>
@@ -34,10 +40,10 @@ Projects Gallery🖼️:
         <img src="https://github.com/user-attachments/assets/193be91a-fd4b-428f-ab31-e1bdad1113c1" alt="图片2" style="width: 31%; margin-right: 0%;">
     </div>
 
-   <div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
         <img src="https://github.com/user-attachments/assets/053306d5-1935-4258-a7e5-b60713ab079a" alt="图片2" style="width: 48%; margin-right: 1%;"> 
         <img src="https://github.com/user-attachments/assets/f7e0cea2-ed96-404a-af58-926a0fc4f3d7" alt="图片2" style="width: 51%; margin-right: 0%;">
-    </div>
+</div>
 
 </details>
 
@@ -47,9 +53,19 @@ Projects Gallery🖼️:
         <img src="https://raw.githubusercontent.com/CharmingZh/IsItBusy/refs/heads/master/docs/output_images/09_integration_by_year_2025.png" alt="图片2" style="width: 74%; margin-right: 0%;"> 
         <img src="https://raw.githubusercontent.com/CharmingZh/IsItBusy/refs/heads/master/docs/pic/demo.png" alt="图片2" style="width: 21%; margin-right: 0%;">
     </div>
+
 1. 源代码仓库(Source code)：[🌧Sweat Scheduler MSU 健身房人浪预报🌊](https://github.com/CharmingZh/IsItBusy)；
+   
 2. 数据仓库（Data backend)：[data](https://github.com/CharmingZh/gym_data_repo)；
+   
 3. [Demo](https://charmingzh.github.io/IsItBusy/)；
+</details>
+
+<details>
+    <summary> [2025] WatchOS 基于心率的状态监测 App </summary>
+
+ 开发中....
+ 
 </details>
 
 💃About
