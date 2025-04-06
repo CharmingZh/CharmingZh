@@ -14,7 +14,7 @@ Projects Gallery🖼️:
 <details>
  <summary><b> [2023 - 🔬 Research] An Advanced Software Platform and Algorithmic Framework for Mobile DBH Data Acquisition. </b></summary>
 
-    ![](https://www.mdpi.com/forests/forests-14-02334/article_deploy/html/images/forests-14-02334-g001.png)
+![image](https://github.com/user-attachments/assets/eb9bb341-741c-43d2-a17d-6356cebc6d4d)
  
 1. 论文链接(Paper)：[DOI](https://doi.org/10.3390/f14122334)；
    
