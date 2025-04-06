@@ -13,19 +13,17 @@ Projects Gallery🖼️:
 
 <details>
  <summary><b> [2023 - 🔬 Research] An Advanced Software Platform and Algorithmic Framework for Mobile DBH Data Acquisition. </b></summary>
+
+    ![](https://www.mdpi.com/forests/forests-14-02334/article_deploy/html/images/forests-14-02334-g001.png)
  
 1. 论文链接(Paper)：[DOI](https://doi.org/10.3390/f14122334)；
- 
-2. Graphical Abstract：
-    
-   ![](https://www.mdpi.com/forests/forests-14-02334/article_deploy/html/images/forests-14-02334-g001.png)
    
 </details>
 
 <details>
     <summary><b> [2023 - 🔨 Personal Project] Intelligent Information Processing (IIP) Lab's Home Page - Beijing Forestry University. </b></summary>
  
-1. 北京林业大学 - 工学院 - 智能信息处理 课题组主页(Home Page)：[Kan's Lab](https://ziayhzhou.github.io/))；
+北京林业大学 - 工学院 - 智能信息处理 课题组主页(Home Page)：[Kan's Lab](https://ziayhzhou.github.io/))；
    
 </details>
 
