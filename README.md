@@ -1,7 +1,7 @@
 Projects Gallery🖼️:
 ---
 <details>
- <summary> [2021] Qtas: a P2P distributed network storage system based on IPv6 and Chord protocol </summary>
+ <summary><b> [2021 - 📖 Course Work] Qtas: a P2P distributed network storage system based on IPv6 and Chord protocol. </b></summary>
  
 1. 源代码仓库(Source code)：[Qtas](https://github.com/CharmingZh/Qtas/)；
  
@@ -12,7 +12,7 @@ Projects Gallery🖼️:
 </details>
 
 <details>
- <summary> [2023] An Advanced Software Platform and Algorithmic Framework for Mobile DBH Data Acquisition. </summary>
+ <summary><b> [2023 - 🔬 Research] An Advanced Software Platform and Algorithmic Framework for Mobile DBH Data Acquisition. </b></summary>
  
 1. 论文链接(Paper)：[DOI](https://doi.org/10.3390/f14122334)；
  
@@ -23,21 +23,21 @@ Projects Gallery🖼️:
 </details>
 
 <details>
-    <summary> [2023] Intelligent Information Processing (IIP) Lab's Home Page - Beijing Forestry University. </summary>
+    <summary><b> [2023 - 🔨 Personal Project] Intelligent Information Processing (IIP) Lab's Home Page - Beijing Forestry University. </b></summary>
  
-1. 主页(Home Page)：[Kan's Lab](https://ziayhzhou.github.io/))；
+1. 北京林业大学 - 工学院 - 智能信息处理 课题组主页(Home Page)：[Kan's Lab](https://ziayhzhou.github.io/))；
    
 </details>
 
 <details>
-    <summary> [2024] Online Apple Volume Estimation Using 3D Vision and Machine Learning. </summary>
+    <summary><b> [2024 - 🔬 Research] Online Apple Volume Estimation Using 3D Vision and Machine Learning. </b></summary>
  
  ![image](https://github.com/user-attachments/assets/f50c3144-551a-4a44-8fb1-169af2983a81)
    
 </details>
 
 <details>
- <summary> [2024] A framework for real-time 3D surface reconstruction of objects based on single/dual-line lasers. </summary>
+ <summary><b> [2024 - 🔬 Research] A framework for real-time 3D surface reconstruction of objects based on single/dual-line lasers. </b></summary>
 
  ![AI_CONF_POSTER](https://github.com/user-attachments/assets/05fa43dc-53a7-411c-bd79-bb5111dc6fc0)
     
@@ -54,7 +54,7 @@ Projects Gallery🖼️:
 </details>
 
 <details>
-    <summary> [2025] 🌧Sweat Scheduler MSU 健身房人浪预报🌊 </summary>
+    <summary><b> [2025 - 🔨 Personal Project] 🌧Sweat Scheduler MSU 健身房人浪预报🌊 </b></summary>
     <div style="display: flex; justify-content: space-between; align-items: center;">
         <img src="https://raw.githubusercontent.com/CharmingZh/IsItBusy/refs/heads/master/docs/output_images/09_integration_by_year_2025.png" alt="图片2" style="width: 74%; margin-right: 0%;"> 
         <img src="https://raw.githubusercontent.com/CharmingZh/IsItBusy/refs/heads/master/docs/pic/demo.png" alt="图片2" style="width: 21%; margin-right: 0%;">
@@ -68,7 +68,7 @@ Projects Gallery🖼️:
 </details>
 
 <details>
-    <summary> [2025] WatchOS 基于心率的状态监测 App </summary>
+    <summary><b> [2025 - 🔨 Personal Project] WatchOS 基于心率的状态监测 App </b></summary>
 
  开发中....
  
@@ -76,7 +76,7 @@ Projects Gallery🖼️:
 
 💃About
 ---
-```python
+```rust
     .---.    "张家铭 - Zhang Jia-Ming / Chahng-Jiah-Meengh"
     |   |
     '---'.--.          __  __   ___   .--.   _..._                                 .                      _..._
