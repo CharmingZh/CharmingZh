@@ -30,10 +30,16 @@ Projects Gallery🖼️:
 </details>
 
 <details>
+    <summary> [2024] Online Apple Volume Estimation Using 3D Vision and Machine Learning. </summary>
+ 
+ ![image](https://github.com/user-attachments/assets/f50c3144-551a-4a44-8fb1-169af2983a81)
+   
+</details>
+
+<details>
  <summary> [2024] A framework for real-time 3D surface reconstruction of objects based on single/dual-line lasers. </summary>
 
- ![96c3a9179e5bea00d09e47eaaa64f5f](https://github.com/user-attachments/assets/6457847a-dd44-452a-9a19-a992c8ccdcf6)
-
+ ![AI_CONF_POSTER](https://github.com/user-attachments/assets/05fa43dc-53a7-411c-bd79-bb5111dc6fc0)
     
 <div style="display: flex; justify-content: space-between; align-items: center;">
         <img src="https://github.com/user-attachments/assets/657f0c3c-68e0-43b1-abb3-2640de7634aa" alt="图片2" style="width: 67%; margin-right: 1%;"> 
