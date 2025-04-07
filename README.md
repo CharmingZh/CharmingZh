@@ -35,7 +35,7 @@ Projects Gallery🖼️:
 </details>
 
 <details>
- <summary><b> [2024 - 🔬 Research] A framework for real-time 3D surface reconstruction of objects based on single/dual-line lasers. </b></summary>
+ <summary><b> [2025 - 🔬 Research] A framework for real-time 3D surface reconstruction of objects based on single/dual-line lasers. </b></summary>
 
  ![AI_CONF_POSTER](https://github.com/user-attachments/assets/05fa43dc-53a7-411c-bd79-bb5111dc6fc0)
     
