@@ -37,21 +37,11 @@ Projects Gallery🖼️:
 <details>
  <summary><b> [2025 - 🔬 Research] A framework for real-time 3D surface reconstruction of objects based on single/dual-line lasers. </b></summary>
 
-1. 官方仓库(Source code)：[3DLaserPoultry]([https://github.com/CharmingZh/IsItBusy](https://github.com/CharmingZh/3DLaserPoultry))；
+1. 官方仓库(Source code)：[3DLaserPoultry](https://github.com/CharmingZh/3DLaserPoultry)；
    
-2. 项目主页（Project Homepage)：[Link]([https://github.com/CharmingZh/gym_data_repo](https://charmingzh.github.io/3DLaserPoultry/))；
+2. 项目主页（Project Homepage)：[Link](https://charmingzh.github.io/3DLaserPoultry/)；
 
- ![AI_CONF_POSTER](https://github.com/user-attachments/assets/05fa43dc-53a7-411c-bd79-bb5111dc6fc0)
-    
-<div style="display: flex; justify-content: space-between; align-items: center;">
-        <img src="https://github.com/user-attachments/assets/657f0c3c-68e0-43b1-abb3-2640de7634aa" alt="图片2" style="width: 67%; margin-right: 1%;"> 
-        <img src="https://github.com/user-attachments/assets/193be91a-fd4b-428f-ab31-e1bdad1113c1" alt="图片2" style="width: 31%; margin-right: 0%;">
-    </div>
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-        <img src="https://github.com/user-attachments/assets/053306d5-1935-4258-a7e5-b60713ab079a" alt="图片2" style="width: 48%; margin-right: 1%;"> 
-        <img src="https://github.com/user-attachments/assets/f7e0cea2-ed96-404a-af58-926a0fc4f3d7" alt="图片2" style="width: 51%; margin-right: 0%;">
-</div>
+![](https://github.com/CharmingZh/3DLaserPoultry/blob/main/docs/src/3DRedering.png)   
 
 </details>
 
