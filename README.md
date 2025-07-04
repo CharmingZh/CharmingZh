@@ -37,6 +37,10 @@ Projects Gallery🖼️:
 <details>
  <summary><b> [2025 - 🔬 Research] A framework for real-time 3D surface reconstruction of objects based on single/dual-line lasers. </b></summary>
 
+1. 官方仓库(Source code)：[3DLaserPoultry]([https://github.com/CharmingZh/IsItBusy](https://github.com/CharmingZh/3DLaserPoultry))；
+   
+2. 项目主页（Project Homepage)：[Link]([https://github.com/CharmingZh/gym_data_repo](https://charmingzh.github.io/3DLaserPoultry/))；
+
  ![AI_CONF_POSTER](https://github.com/user-attachments/assets/05fa43dc-53a7-411c-bd79-bb5111dc6fc0)
     
 <div style="display: flex; justify-content: space-between; align-items: center;">
