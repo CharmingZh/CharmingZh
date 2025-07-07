@@ -35,7 +35,7 @@ Projects Gallery🖼️:
 </details>
 
 <details>
- <summary><b> [2025 - 🔬 Research] A framework for real-time 3D surface reconstruction of objects based on single/dual-line lasers. </b></summary>
+ <summary><b> [2025 - 🔬 Research] A New Laser Profiling System for Online, Real-Time Detection of Broiler Breast Fillets with Woody Breast. </b></summary>
 
 1. 官方仓库(Source code)：[3DLaserPoultry](https://github.com/CharmingZh/3DLaserPoultry)；
    
