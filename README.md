@@ -59,12 +59,6 @@ Projects Gallery🖼️:
 3. [Demo](https://charmingzh.github.io/IsItBusy/)；
 </details>
 
-<details>
-    <summary><b> [2025 - 🔨 Personal Project] WatchOS 基于心率的状态监测 App </b></summary>
-
- 开发中....
- 
-</details>
 
 💃About
 ---
