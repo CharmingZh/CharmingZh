@@ -59,6 +59,20 @@ Projects Gallery🖼️:
 3. [Demo](https://charmingzh.github.io/IsItBusy/)；
 </details>
 
+<details>
+    <summary><b> [2025 - 🔨 Personal Project] Creality Calibration Pipeline based on Python/C++(GUI) for MacOS and Windows </b></summary>
+    <!-- <div style="display: flex; justify-content: space-between; align-items: center;">
+        <img src="https://raw.githubusercontent.com/CharmingZh/IsItBusy/refs/heads/master/docs/output_images/09_integration_by_year_2025.png" alt="图片2" style="width: 74%; margin-right: 0%;"> 
+        <img src="https://raw.githubusercontent.com/CharmingZh/IsItBusy/refs/heads/master/docs/pic/demo.png" alt="图片2" style="width: 21%; margin-right: 0%;">
+    </div>
+
+1. 源代码仓库(Source code)：[🌧Sweat Scheduler MSU 健身房人浪预报🌊](https://github.com/CharmingZh/IsItBusy)；
+   
+2. 数据仓库（Data backend)：[data](https://github.com/CharmingZh/gym_data_repo)；
+   
+3. [Demo](https://charmingzh.github.io/IsItBusy/)； -->
+</details>
+
 
 💃About
 ---
