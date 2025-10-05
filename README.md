@@ -35,13 +35,27 @@ Projects Gallery🖼️:
 </details>
 
 <details>
- <summary><b> [2025 - 🔬 Research] A New Laser Profiling System for Online, Real-Time Detection of Broiler Breast Fillets with Woody Breast. </b></summary>
+ <summary><b> [2025 - 🔬 Research] Proof-of-Concept Evaluation of A 3D Laser Profiling System Prototype for Real-Time Woody Breast Detection in Broiler Breast Fillets. </b></summary>
 
 1. 官方仓库(Source code)：[3DLaserPoultry](https://github.com/CharmingZh/3DLaserPoultry)；
    
 2. 项目主页（Project Homepage)：[Link](https://charmingzh.github.io/3DLaserPoultry/)；
 
 ![](https://github.com/CharmingZh/3DLaserPoultry/blob/main/docs/src/3DRedering.png)   
+
+```bibtex
+@article{ZHANG2025112820,
+    title = {Proof-of-Concept Evaluation of A 3D Laser Profiling System Prototype for Real-Time Woody Breast Detection in Broiler Breast Fillets},
+    journal = {Journal of Food Engineering},
+    pages = {112820},
+    year = {2025},
+    issn = {0260-8774},
+    doi = {https://doi.org/10.1016/j.jfoodeng.2025.112820},
+    url = {https://www.sciencedirect.com/science/article/pii/S0260877425003553},
+    author = {Jiaming Zhang and Yuzhen Lu},
+    keywords = {3D Vision, Machine Learning, Myopathy, Online Inspection, Poultry, Woody Breast}
+}
+```
 
 </details>
 
